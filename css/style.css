@@ -1,0 +1,115 @@
+/* 
+The Formula:
+    selector{
+        property: value;
+    } 
+*/
+
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-decoration: underline;
+    border: 10px double rgb(180, 254, 155);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+p{
+    color: black;
+    border: 4px double rgb(92, 5, 5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(255, 251, 202);
+}
+
+.main-text{
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: crimson;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 10px ridge deepskyblue;
+    border-radius: 500px;
+    filter: drop-shadow(8px 8px 10px rgb(48, 21, 226));
+}
+
+
+.thumbnails{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(105, 48, 23);
+    border: 20px groove rgb(237, 150, 84);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    filter: drop-shadow(10px 10px 15px rgb(83, 6, 6));
+
+}
+
+.goomzilla{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 270px;
+    margin-right: 270px;
+    background-color: rgb(105, 48, 23);
+    border: 20px groove rgb(237, 150, 84);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    filter: drop-shadow(10px 10px 15px rgb(83, 6, 6));
+}
+
+.thumb1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid red;
+}
+
+.thumb2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid red;
+}
+
+.thumb3{
+    display: block;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 3px solid red;
+}
+
+span{
+    color:black;
+    background-color: aliceblue;
+    text-transform: uppercase;
+    border: 2px solid black;
+}
+
+
+ul{
+    color:black;
+    list-style-position: inside;
+    background-color: aliceblue;
+    border: 2px solid black;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
