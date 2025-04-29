@@ -44,22 +44,6 @@ p{
     filter: drop-shadow(8px 8px 10px rgb(48, 21, 226));
 }
 
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-/* STEP 3: Img
-    - Apply the following rule (display: block;)
-    - Center the images (margin-left and margin-right)
-    - Add a border to the images with any size, style, and color (border)
-    - Change the width of the images (width)
-*/
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 .thumbnails{
     padding-top: 50px;
     padding-bottom: 50px;
@@ -117,25 +101,6 @@ span{
     border: 2px solid black;
 }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
-=======
-=======
->>>>>>> Stashed changes
-/* STEP 5: a
-    -  Change the color of the link (color)
-*/
-
-
-/* STEP 6: ul
-    - Center the text (text-align)
-    - Move the bullet points with the text (list-style-position: inside;)
-*/
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 ul{
     color:black;
     list-style-position: inside;
@@ -145,12 +110,4 @@ ul{
     margin-left: 400px;
     padding-top: 10px;
     padding-bottom: 10px;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 }
-=======
-}
->>>>>>> Stashed changes
-=======
-}
->>>>>>> Stashed changes
